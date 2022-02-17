@@ -1,6 +1,6 @@
 {
   "name": "sandsea-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -28,5 +28,9 @@
     "fs-extra": "^10.0.0",
     "inquirer": "^8.2.0",
     "ora": "^5.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandsea-stack/sandsea-cli.git"
   }
 }
